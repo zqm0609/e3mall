@@ -7,13 +7,7 @@
         <dependent-module archiveName="zqm_e3_service-0.0.1-SNAPSHOT.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/zqm_e3_service/zqm_e3_service">
             <dependency-type>uses</dependency-type>
         </dependent-module>
-        <dependent-module archiveName="zqm_e3_dao-0.0.1-SNAPSHOT.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/zqm_e3_dao/zqm_e3_dao">
-            <dependency-type>uses</dependency-type>
-        </dependent-module>
         <dependent-module archiveName="zqm_e3_pojo-0.0.1-SNAPSHOT.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/zqm_e3_pojo/zqm_e3_pojo">
-            <dependency-type>uses</dependency-type>
-        </dependent-module>
-        <dependent-module archiveName="zqm_e3_interface-0.0.1-SNAPSHOT.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/zqm_e3_interface/zqm_e3_interface">
             <dependency-type>uses</dependency-type>
         </dependent-module>
         <property name="context-root" value="zqm_e3_web"/>
